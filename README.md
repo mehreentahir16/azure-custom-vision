@@ -1,0 +1,1 @@
+This repository contains the code for Code Project article **Training a Custom Object Detection Model on Azure Custom Vision**. Find the article [here](https://www.codeproject.com/Articles/5326981/Training-a-Custom-Object-Detection-Model-on-Azure)
